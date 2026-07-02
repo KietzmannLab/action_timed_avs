@@ -1,6 +1,6 @@
 # AVS Saccade Locking
 
-Analysis code for the paper investigating saccade-locking in MEG data from the AVS (Auditory-Visual Scene) dataset. The pipeline characterizes how MEG responses are locked to saccade-related and fixation-related.
+Analysis code for the paper investigating saccade-locking in MEG data from the AVS (Active Visual Semantics) dataset. The pipeline characterizes how MEG responses are locked to saccade-related and fixation-related.
 
 The analyses map onto the figures of the paper:
 - **Fig. 1** — Shifted-latency analysis, shifted-bin ERFs, event-onset shift with mixing-factor ANOVA
